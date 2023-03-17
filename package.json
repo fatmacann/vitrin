@@ -1,0 +1,14 @@
+{
+  "name": "vitrin",
+  "version": "1.0.0",
+  "description": "MERN stack app to store and share images with other users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatma can",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
